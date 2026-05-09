@@ -7,7 +7,7 @@ const http = require("http");
 const https = require("https");
 
 // ⚠️ CONFIGURE AQUI:
-const UTMIFY_API_TOKEN = "SEU_TOKEN_UTMIFY_AQUI"; // Cole sua Credencial de API da UTMify
+const UTMIFY_API_TOKEN = "9nYQNcvyauuo7qxMmRv6xUxENagGOglm3PXG"; // Cole sua Credencial de API da UTMify
 const PORT = process.env.PORT || 3000;
 
 // ─── Mapeamento de status PodPay → UTMify ───────────────────
