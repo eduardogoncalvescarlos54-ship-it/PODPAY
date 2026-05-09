@@ -1,0 +1,12 @@
+{
+  "name": "podpay-utmify-middleware",
+  "version": "1.0.0",
+  "description": "Middleware que converte webhooks da PodPay para o formato da UTMify",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
